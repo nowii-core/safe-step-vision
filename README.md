@@ -24,7 +24,8 @@ With no build system required for basic development, SafeStep AR provides a simp
 - **Offline & Mobile Ready** — Optimized for mobile browsers with full touch and wake-lock capabilities.
 
 ## Preview
-
+![nowii graphic-3.png ](graphic-3.png)
+![nowii graphic-1.png ](graphic-1.png)
 **Live Demo:** [https://nowii-core.github.io/safe-step-vision/](https://nowii-core.github.io/safe-step-vision/)
 
 ## Tech Stack
